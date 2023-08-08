@@ -1,7 +1,7 @@
 ---
 title: "Financial Simulator"
 date:   2022-12-01
-permalink: /Debmarine-Safety-Application-for-Industrial-Working-Enviornments/
+permalink: /Financial Simulator/
 tags:
   - SQL
   - Power BI

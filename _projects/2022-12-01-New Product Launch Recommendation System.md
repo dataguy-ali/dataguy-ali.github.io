@@ -1,7 +1,7 @@
 ---
 title: "New Product Launch Recommendation System"
 date:   2021-9-01
-permalink: /Visual-Localization-Through-Image-Registration/
+permalink: /New Product Launch Recommendation System/
 tags:
   - Machine Learning
   - Python
