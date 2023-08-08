@@ -1,18 +1,18 @@
 ---
-title: "Visual Localization Through Image Registration"
-date:   2022-12-01
+title: "New Product Launch Recommendation System"
+date:   2021-9-01
 permalink: /Visual-Localization-Through-Image-Registration/
 tags:
-  - Computer Vision
+  - Machine Learning
   - Python
-  - NVIDIA Jetson
-  - OpenCV
-  - Scikit-Image
-  - PyTorch
+  - SQL
+  - Power BI
+  - DAX
+  - Power Query
 ---
 
 
-The goal of the project is to perform localization using input images on a given set of reference imagery. In addition, this solution had to be lightweight so that it can be deployed on edge devices. The stack used in this project is Python, PyTorch, OpenCV, Scikit-Image, and Pandas. I was responsible for performing R&D, data preparation, writing unit tests, building the matching pipeline and deployment to NVIDIA Jetson Development kit.
+The goal of this project is to gain business growth by identifying which pharmaceutical product to be launched in which Anatomical Therapeutic Class (ATC) and molecule composition as compared to the other market competitors. The goal is achieved by developing AI based product recommendation system whic makes recommendation by considering all the market aspects.
 
 
 
