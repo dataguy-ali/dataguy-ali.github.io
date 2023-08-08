@@ -1,7 +1,7 @@
 ---
 title: "Data Warehouse - SSIS,SSAS, SQL, Normalization, Tabular Model"
 date:   2020-04-01
-permalink: /Automated-Reserach-Pipeline/
+permalink: /Data Warehouse/
 tags:
   - Data Warehouse
   - SQL
